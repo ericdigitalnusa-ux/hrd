@@ -1,0 +1,7 @@
+{
+  "name": "TalentInsight AI",
+  "description": "Analisis Wawancara Cerdas didukung oleh Gemini 2.5. Unggah wawancara untuk transkripsi instan, analisis kepribadian, dan rekomendasi perekrutan.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
